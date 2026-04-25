@@ -16,7 +16,7 @@
 		"tailwindcss": "4.2.1"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.4.8",
+		"@biomejs/biome": "2.4.11",
 		"@kcconfigs/biome": "1.0.0-beta.1",
 		"@kcconfigs/tsconfig": "1.0.0-beta.1",
 		"@types/bun": "latest",
