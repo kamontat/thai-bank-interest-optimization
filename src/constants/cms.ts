@@ -1,7 +1,7 @@
 export const cms = {
 	app: {
 		title: "Thai Bank Interest Optimizer",
-		footer: "Thai Bank Interest Optimization — For educational purposes only",
+		footer: "Thai Bank Interest Optimization",
 	},
 	nav: {
 		products: "Products",
