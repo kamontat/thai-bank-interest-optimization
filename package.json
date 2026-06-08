@@ -6,8 +6,8 @@
 	"scripts": {
 		"fix": "biome check --write --unsafe",
 		"check": "biome check",
-		"dev": "bun scripts/dev.ts",
-		"build": "bun scripts/build.ts"
+		"dev": "bun-react dev",
+		"build": "bun-react build"
 	},
 	"dependencies": {
 		"d3": "7.9.0",
@@ -19,6 +19,7 @@
 		"@biomejs/biome": "2.4.8",
 		"@kcconfigs/biome": "1.0.0-beta.1",
 		"@kcconfigs/tsconfig": "1.0.0-beta.1",
+		"@kctools/bun-react": "0.1.1",
 		"@types/bun": "latest",
 		"@types/d3": "7.4.3",
 		"@types/react": "19.2.14",
